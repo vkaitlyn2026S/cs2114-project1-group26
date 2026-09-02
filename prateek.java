@@ -1,5 +1,5 @@
-public class Kaitlyn {
+public class Prateek {
     public static void main(String[] args) {
-        System.out.println("Kaitlyn is on the team.");
+        System.out.println("Prateek is on the team.");
     }
 }
