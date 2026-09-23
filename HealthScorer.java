@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Nikitha (PID)
+// -- Nikitha (906760583)
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -17,7 +17,7 @@ import java.util.List;
  * and never prints. Nothing is cached, so a score can never
  * go stale after an edit.
  *
- * @author Nikitha (PID)
+ * @author Nikitha (906760583)
  * @version 2026.09.22
  */
 public class HealthScorer

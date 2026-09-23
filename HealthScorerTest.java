@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Nikitha (PID)
+// -- Nikitha (906760583)
 
 import java.time.LocalDate;
 import java.util.List;
@@ -13,7 +13,7 @@ import java.util.List;
  * Tests for HealthScorer. Default goals are used throughout: 10,000
  * steps, 8 hours, 2,000 calories, 8 glasses.
  *
- * @author Nikitha (PID)
+ * @author Nikitha (906760583)
  * @version 2026.09.22
  */
 public class HealthScorerTest

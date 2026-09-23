@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Nikitha (PID)
+// -- Nikitha (906760583)
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
@@ -16,7 +16,7 @@ import java.time.format.ResolverStyle;
  * menu number) or throws an IllegalArgumentException whose message says
  * exactly what was wrong. No console, no state: every call is independent.
  *
- * @author Nikitha (PID)
+ * @author Nikitha (906760583)
  * @version 2026.09.22
  */
 public class InputParser
