@@ -6,7 +6,6 @@ public class Kaitlyn {
 
 public enum Metric {
     STEPS(
-        
         "Steps",
         "steps"
         10000.0,
@@ -41,6 +40,53 @@ public enum Metric {
     true,
     "Fill a bottle before every class and finish it before the next one."    
     );
+
+private final String label;
+    private final String unit;
+    private final double defaultGoal;
+    private final double warnAbove;
+    private final double maxPerDay;
+    private final boolean wholeUnits;
+    private final String tip;
+
+    Metric(String label, String unit, double defaultGoal, double warnAbove, double maxPerDay, boolean wholeUnits, String tip) {
+        this.label = label;
+        this.unit = unit;
+        this.defaultGoal = defaultGoal;
+        this.warnAbove = warnAbove;
+        this.maxPerDay = maxPerDay;
+        this.wholeUnits = wholeUnits;
+        this.tip = tip;
+    }
+
+    public String getLabel() { 
+        return label; 
+    }
+    
+    public String getUnit() { 
+        return unit; 
+    }
+    
+    public double getDefaultGoal() { 
+        return defaultGoal; 
+    }
+    
+    public double getWarnAbove() { 
+        return warnAbove; 
+    }
+    
+    public double getMaxPerDay() { 
+        return maxPerDay; 
+    }
+    
+    public boolean isWholeUnits() { 
+        return wholeUnits; 
+    }
+    
+    public String getTip() { 
+        return tip; 
+    }
+}
 
     
 }
