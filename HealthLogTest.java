@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Kaitlyn (PID)
+// -- Kaitlyn (906810716)
 
 import java.time.LocalDate;
 import java.util.List;
@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Tests for HealthLog.
  *
- * @author Kaitlyn (PID)
+ * @author Kaitlyn (906810716)
  * @version 2026.09.22
  */
 public class HealthLogTest

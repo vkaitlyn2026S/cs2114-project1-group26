@@ -4,14 +4,14 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Kaitlyn (PID)
+// -- Kaitlyn (906810716)
 
 /**
  * The user's four daily targets. A target of zero or less is refused, so
  * a percentage can never divide by zero. A value of 0 in a field means
  * "not set yet" (first launch, or a bad GOALS line in the save file).
  *
- * @author Kaitlyn (PID)
+ * @author Kaitlyn (906810716)
  * @version 2026.09.22
  */
 public class Goals

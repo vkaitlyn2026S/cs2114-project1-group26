@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Kaitlyn (PID)
+// -- Kaitlyn (906810716)
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -28,7 +28,7 @@ import java.util.Scanner;
  *
  * Day columns are the date, then the metrics in enum order.
  *
- * @author Kaitlyn (PID)
+ * @author Kaitlyn (906810716)
  * @version 2026.09.22
  */
 public class LogFile

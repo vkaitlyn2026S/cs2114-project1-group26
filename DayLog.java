@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Kaitlyn (PID)
+// -- Kaitlyn (906810716)
 
 import java.time.LocalDate;
 
@@ -13,7 +13,7 @@ import java.time.LocalDate;
  * with every value at 0.0. The rule for changing a value lives here: it
  * can never be negative and never above the metric's daily maximum.
  *
- * @author Kaitlyn (PID)
+ * @author Kaitlyn (906810716)
  * @version 2026.09.22
  */
 public class DayLog

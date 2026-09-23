@@ -4,7 +4,7 @@
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those
 // who do.
-// -- Kaitlyn (PID)
+// -- Kaitlyn (906810716)
 
 /**
  * The fixed set of four things Health Bar tracks. Every constant (label,
@@ -13,7 +13,7 @@
  * "for each metric" loop the same order: dashboard rows, prompts and the
  * columns of the save file.
  *
- * @author Kaitlyn (PID)
+ * @author Kaitlyn (906810716)
  * @version 2026.09.22
  */
 public enum Metric
