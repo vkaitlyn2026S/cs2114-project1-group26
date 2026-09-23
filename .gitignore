@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Health Bar save file and test leftovers (personal data, do not commit)
+healthbar.txt
+healthbar.txt.testbackup
+test-*.txt
+bin/
+healthbar-week.txt
