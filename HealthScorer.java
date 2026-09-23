@@ -40,7 +40,6 @@ public class HealthScorer {
             if (dailyScore(todayLog) >= STREAK_THRESHOLD) {
                 streak++;
             } else {
-                // If today has data but fails the threshold, the active streak is broken
                 return 0;
             }
         }
@@ -99,8 +98,6 @@ public class HealthScorer {
         for (Metric metric : Metric.values()) {
             double average = sevenDayAverage(metric, today);
             double goal = goals.get(metric);
-
-            // FIXED: Added a zero-check to prevent NaN/Infinity ratio results
             double ratio = (goal > 0) ? (average / goal) : 0.0;
 
             if (ratio < weakestRatio) {

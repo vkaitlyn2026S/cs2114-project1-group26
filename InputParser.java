@@ -115,5 +115,4 @@ public class InputParser {
         }
         return String.format("%s", val);
     }
-    
 }
