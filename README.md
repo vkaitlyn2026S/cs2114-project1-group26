@@ -55,3 +55,7 @@ GOALS,10000,8,2000,8
 
 One `GOALS` line, then one line per day: the date, then steps, sleep,
 calories and water. Bad lines are skipped and counted on load.
+
+System Diagram: 
+<img width="310" height="240" alt="Screenshot 2026-09-23 at 3 13 54 PM" src="https://github.com/user-attachments/assets/754f5d57-56a5-4b85-af8c-fb67a4507b59" />
+
